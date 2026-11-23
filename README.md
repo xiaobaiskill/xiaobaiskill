@@ -1,13 +1,7 @@
 ### 你好，我是小白
 
-主要写 Go，也做链上和交易相关的工具。
+[game-center](https://github.com/xiaobaiskill/game-center) 是平时无聊时开发的一个小游戏，用来打发无聊时间。
 
-- **链**：Solana、Sui、Aptos、Ethereum / BSC
-- **方向**：DEX 解析、链上套利、资金费率看盘、Solidity
+在线地址：[https://game-center.1125378902.workers.dev/](https://game-center.1125378902.workers.dev/)
 
-**近期项目**
-
-- [crypto-funding-arbitrage](https://github.com/xiaobaiskill/crypto-funding-arbitrage) — 跨所资金费率、Meme 异动、清算热图
-- [onchain-arbitrage-colearn](https://github.com/xiaobaiskill/onchain-arbitrage-colearn) — 链上套利研究笔记
-- [dex-parser](https://github.com/xiaobaiskill/dex-parser) — DEX 解析，给 K 线提供数据
-- [game-center](https://github.com/xiaobaiskill/game-center)
+目前里面有这些游戏：贪吃蛇、俄罗斯方块、魔塔、2048、数独、扫雷、推箱子、小恐龙、中国象棋。
